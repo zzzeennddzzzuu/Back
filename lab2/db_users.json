@@ -1,0 +1,22 @@
+[
+  {
+    "firstName": "firstName-1",
+    "lastName": "lastName-1",
+    "login": "login-1",
+    "password": "password-1",
+    "role": "Customer",
+    "token": "5fd5781c-7b01-46dc-bc1f-7a823d66312b"
+  },
+  {
+    "login": "login-2",
+    "password": "password-1",
+    "role": "Admin",
+    "token": "76e8026f-9f12-4738-83ff-0cdf16d19595"
+  },
+  {
+    "login": "login-3",
+    "password": "password-1",
+    "role": "Driver",
+    "token": "67f59ea7-7e25-4a8e-9bf0-89da88bfba02"
+  }
+]
